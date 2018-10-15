@@ -1,0 +1,366 @@
+<body><div id="___gatsby"><div class="react-root" data-reactroot="" data-reactid="1"><nav class="sc-jAaTju cFXtrY" data-reactid="2"><div class="sc-jDwBTQ jZtSbv" data-reactid="3"><a class="sc-iRbamj dVgdqV" href="/chime-in/" data-reactid="4"></a><div class="sc-jlyJG lfUAvp" style="transform:rotate(0deg);" data-reactid="5"></div><div class="sc-gPEVay hzlEDs" role="navigation" style="top:-100vh;" data-reactid="6"><a class="sc-gipzik cjUOGx" color="#900" href="/chime-in/planning-group" data-reactid="7">Planning Group</a><a class="sc-gipzik cjUOGx" color="#900" href="/chime-in/steering-committee" data-reactid="8">Steering Committee</a><a class="sc-gipzik cjUOGx" color="#900" href="/chime-in/faq" data-reactid="9">FAQ</a><a class="sc-gipzik cjUOGx" color="#900" href="/chime-in/resources" data-reactid="10">Resources</a></div></div></nav><main data-reactid="11"><div style="margin: 1em auto 1em auto;max-width:960px;min-height:500px;padding:0px 1.0875rem 1.45rem;padding-top:0;" data-reactid="12"><div data-reactid="13"><div data-reactid="14"><!-- react-empty: 15 --><div data-reactid="16"><h1 data-reactid="17">Overall Response Distribution</h1><hr data-reactid="18"></div></div><div><button class="sc-brqgnP bHEfjB">← Go Back</button><div style="text-align: right; margin-bottom: 1em;"><div style="display: inline-block; font-size: 14px; padding-left: 1em;"><div style="display: inline-block;"><svg height="14" width="14"><rect height="14" width="14" x="0" y="0" fill="#FF0000"></rect></svg></div><!-- react-text: 1714 -->&nbsp; <!-- /react-text --><!-- react-text: 1715 -->Strongly Disagree (1)<!-- /react-text --></div><div style="display: inline-block; font-size: 14px; padding-left: 1em;"><div style="display: inline-block;"><svg height="14" width="14"><rect height="14" width="14" x="0" y="0" fill="#FEFF00"></rect></svg></div><!-- react-text: 1719 -->&nbsp; <!-- /react-text --><!-- react-text: 1720 -->Disagree (2)<!-- /react-text --></div><div style="display: inline-block; font-size: 14px; padding-left: 1em;"><div style="display: inline-block;"><svg height="14" width="14"><rect height="14" width="14" x="0" y="0" fill="#eeeeee"></rect></svg></div><!-- react-text: 1724 -->&nbsp; <!-- /react-text --><!-- react-text: 1725 -->Undecided (3)<!-- /react-text --></div><div style="display: inline-block; font-size: 14px; padding-left: 1em;"><div style="display: inline-block;"><svg height="14" width="14"><rect height="14" width="14" x="0" y="0" fill="#92D04F"></rect></svg></div><!-- react-text: 1729 -->&nbsp; <!-- /react-text --><!-- react-text: 1730 -->Agree (4)<!-- /react-text --></div><div style="display: inline-block; font-size: 14px; padding-left: 1em;"><div style="display: inline-block;"><svg height="14" width="14"><rect height="14" width="14" x="0" y="0" fill="#06B04F"></rect></svg></div><!-- react-text: 1734 -->&nbsp; <!-- /react-text --><!-- react-text: 1735 -->Strongly Agree (5)<!-- /react-text --></div></div><div style="position: relative;"><table class="demo"><caption><h2>Supervisors/Department Chairs</h2></caption><thead class="sc-cMljjf uJIKg"><tr><th style="text-align: left;">#</th><th style="text-align: left;">Question</th><th>&nbsp;</th><th><!-- react-text: 1746 -->Mean<!-- /react-text --><br><!-- react-text: 1748 -->(1-5)<!-- /react-text --></th><th style="width: 50%; padding-left: 110px;">Distribution</th></tr></thead><tbody><tr><td rowspan="2">24</td><td rowspan="2">I have a good relationship with my supervisor/department chair.</td><td style="padding-left: 0.96667rem;">UA</td><td>4.14</td><td class="span-cells" aria-label="Strongly Disagree: 3%; Disagree: 3%; Undecided: 13%; Agree: 39%; Strongly Agree: 42%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>4.2</td><td class="span-cells" aria-label="Strongly Disagree: 2%; Disagree: 3%; Undecided: 12%; Agree: 38%; Strongly Agree: 45%">&nbsp;</td></tr><tr><td rowspan="2">3</td><td rowspan="2">My supervisor/department chair makes his/her expectations clear.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.92</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 6%; Undecided: 19%; Agree: 36%; Strongly Agree: 35%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.96</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 18%; Agree: 37%; Strongly Agree: 36%">&nbsp;</td></tr><tr><td rowspan="2">15</td><td rowspan="2">My supervisor/department chair regularly models this institution's values.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.91</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 5%; Undecided: 18%; Agree: 40%; Strongly Agree: 33%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.96</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 5%; Undecided: 17%; Agree: 41%; Strongly Agree: 34%">&nbsp;</td></tr><tr><td rowspan="2">12</td><td rowspan="2">I believe what I am told by my supervisor/department chair.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.85</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 5%; Undecided: 22%; Agree: 37%; Strongly Agree: 31%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.91</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 5%; Undecided: 20%; Agree: 38%; Strongly Agree: 33%">&nbsp;</td></tr><tr><td rowspan="2">19</td><td rowspan="2">My supervisor/department chair is consistent and fair.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.79</td><td class="span-cells" aria-label="Strongly Disagree: 7%; Disagree: 7%; Undecided: 20%; Agree: 36%; Strongly Agree: 31%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.86</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 6%; Undecided: 19%; Agree: 38%; Strongly Agree: 32%">&nbsp;</td></tr><tr><td rowspan="2">7</td><td rowspan="2">I receive feedback from my supervisor/department chair that helps me.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.76</td><td class="span-cells" aria-label="Strongly Disagree: 6%; Disagree: 8%; Undecided: 21%; Agree: 36%; Strongly Agree: 30%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.8</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 8%; Undecided: 21%; Agree: 36%; Strongly Agree: 31%">&nbsp;</td></tr><tr><td rowspan="2">20</td><td rowspan="2">My supervisor/department chair actively solicits my suggestions and ideas.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.65</td><td class="span-cells" aria-label="Strongly Disagree: 7%; Disagree: 9%; Undecided: 22%; Agree: 35%; Strongly Agree: 27%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.8</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 8%; Undecided: 20%; Agree: 35%; Strongly Agree: 32%">&nbsp;</td></tr></tbody></table><svg width="228" height="842" style="position: absolute; left: 383px; top: 127px;"><g transform="translate(0,0)"><g transform="translate(20,0)"><g class="row" transform="translate(23.88458251953125, 3.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="5.0760000000000005" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="5.0760000000000005" width="6.392" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="11.468000000000002" width="24.44" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="35.908" width="73.13200000000002" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="109.04000000000002" width="79.14800000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="23.688000000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">13%</text><text class="box-label-s" y="31" x="72.47400000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">39%</text><text class="box-label-s" y="31" x="148.61400000000003" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">42%</text><text class="box-label" y="31" x="23.688000000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">13%</text><text class="box-label" y="31" x="72.47400000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">39%</text><text class="box-label" y="31" x="148.61400000000003" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">42%</text></g></g><g class="row" transform="translate(26.070629119873047, 60.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="4.5120000000000005" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="4.5120000000000005" width="5.452" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="9.964" width="22.372000000000003" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="32.336000000000006" width="71.44" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="103.77600000000001" width="84.22399999999999" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="21.150000000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">12%</text><text class="box-label-s" y="31" x="68.05600000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">38%</text><text class="box-label-s" y="31" x="145.888" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">45%</text><text class="box-label" y="31" x="21.150000000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">12%</text><text class="box-label" y="31" x="68.05600000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">38%</text><text class="box-label" y="31" x="145.888" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">45%</text></g></g><g class="row" transform="translate(12.711455345153809, 117.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="8.648" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="8.648" width="10.527999999999999" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="19.176" width="34.96800000000001" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="54.144000000000005" width="68.05600000000001" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="122.20000000000003" width="65.988" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="36.660000000000004" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">19%</text><text class="box-label-s" y="31" x="88.17200000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">36%</text><text class="box-label-s" y="31" x="155.19400000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">35%</text><text class="box-label" y="31" x="36.660000000000004" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">19%</text><text class="box-label" y="31" x="88.17200000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">36%</text><text class="box-label" y="31" x="155.19400000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">35%</text></g></g><g class="row" transform="translate(14.654607772827148, 174.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="6.956000000000001" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="6.956000000000001" width="10.527999999999999" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="17.483999999999998" width="33.84" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="51.324000000000005" width="68.80799999999999" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="120.132" width="68.05600000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="34.403999999999996" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">18%</text><text class="box-label-s" y="31" x="85.72800000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">37%</text><text class="box-label-s" y="31" x="154.16000000000003" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">36%</text><text class="box-label" y="31" x="34.403999999999996" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">18%</text><text class="box-label" y="31" x="85.72800000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">37%</text><text class="box-label" y="31" x="154.16000000000003" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">36%</text></g></g><g class="row" transform="translate(14.411713600158691, 237)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="8.272" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="8.272" width="9.776" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="18.048000000000002" width="33.276" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="51.324000000000005" width="75.012" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="126.33600000000001" width="61.47600000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="34.68600000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">18%</text><text class="box-label-s" y="31" x="88.83000000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">40%</text><text class="box-label-s" y="31" x="157.074" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">33%</text><text class="box-label" y="31" x="34.68600000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">18%</text><text class="box-label" y="31" x="88.83000000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">40%</text><text class="box-label" y="31" x="157.074" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">33%</text></g></g><g class="row" transform="translate(17.00258445739746, 305)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="7.144" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="7.144" width="8.835999999999999" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="15.979999999999999" width="31.396" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="47.376" width="76.70399999999998" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="124.07999999999998" width="63.73199999999999" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="31.677999999999997" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">17%</text><text class="box-label-s" y="31" x="85.72799999999998" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">41%</text><text class="box-label-s" y="31" x="155.94599999999997" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">34%</text><text class="box-label" y="31" x="31.677999999999997" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">17%</text><text class="box-label" y="31" x="85.72799999999998" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">41%</text><text class="box-label" y="31" x="155.94599999999997" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">34%</text></g></g><g class="row" transform="translate(10.44444465637207, 367.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="8.459999999999999" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="8.459999999999999" width="9.776000000000002" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="18.236" width="42.11199999999999" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="60.34799999999999" width="69.184" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="129.53199999999998" width="58.46800000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="39.291999999999994" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">22%</text><text class="box-label-s" y="31" x="94.94" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">37%</text><text class="box-label-s" y="31" x="158.766" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">31%</text><text class="box-label" y="31" x="39.291999999999994" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">22%</text><text class="box-label" y="31" x="94.94" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">37%</text><text class="box-label" y="31" x="158.766" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">31%</text></g></g><g class="row" transform="translate(13.602066993713379, 424.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="7.144" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="7.144" width="9.776" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="16.919999999999998" width="37.412" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="54.331999999999994" width="71.62799999999999" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="125.95999999999998" width="62.04000000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="35.626" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">20%</text><text class="box-label-s" y="31" x="90.14599999999999" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">38%</text><text class="box-label-s" y="31" x="156.98" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">33%</text><text class="box-label" y="31" x="35.626" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">20%</text><text class="box-label" y="31" x="90.14599999999999" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">38%</text><text class="box-label" y="31" x="156.98" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">33%</text></g></g><g class="row" transform="translate(6.962963104248047, 481.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="12.22" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="12.22" width="12.596" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="24.816000000000003" width="37.036" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="61.852000000000004" width="67.86800000000001" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="129.72" width="58.27999999999999" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="43.334" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">20%</text><text class="box-label-s" y="31" x="95.786" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">36%</text><text class="box-label-s" y="31" x="158.85999999999999" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">31%</text><text class="box-label" y="31" x="43.334" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">20%</text><text class="box-label" y="31" x="95.786" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">36%</text><text class="box-label" y="31" x="158.85999999999999" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">31%</text></g></g><g class="row" transform="translate(10.930233001708984, 538.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="9.588" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="9.588" width="11.656" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="21.244" width="34.96800000000001" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="56.21200000000001" width="70.87600000000002" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="127.08800000000002" width="60.91200000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="38.72800000000001" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">19%</text><text class="box-label-s" y="31" x="91.65000000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">38%</text><text class="box-label-s" y="31" x="157.54400000000004" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">32%</text><text class="box-label" y="31" x="38.72800000000001" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">19%</text><text class="box-label" y="31" x="91.65000000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">38%</text><text class="box-label" y="31" x="157.54400000000004" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">32%</text></g></g><g class="row" transform="translate(5.66752815246582, 595.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="10.716000000000001" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="10.716000000000001" width="14.476000000000003" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="25.192" width="39.291999999999994" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="64.484" width="68.05600000000001" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="132.54000000000002" width="55.45999999999999" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="44.837999999999994" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">21%</text><text class="box-label-s" y="31" x="98.512" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">36%</text><text class="box-label-s" y="31" x="160.27" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">30%</text><text class="box-label" y="31" x="44.837999999999994" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">21%</text><text class="box-label" y="31" x="98.512" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">36%</text><text class="box-label" y="31" x="160.27" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">30%</text></g></g><g class="row" transform="translate(7.448750972747803, 652.5)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="9.212" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="9.212" width="14.288" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="23.5" width="38.540000000000006" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="62.040000000000006" width="68.24400000000001" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="130.28400000000002" width="57.71599999999999" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="42.77" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">21%</text><text class="box-label-s" y="31" x="96.162" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">36%</text><text class="box-label-s" y="31" x="159.14200000000002" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">31%</text><text class="box-label" y="31" x="42.77" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">21%</text><text class="box-label" y="31" x="96.162" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">36%</text><text class="box-label" y="31" x="159.14200000000002" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">31%</text></g></g><g class="row" transform="translate(0, 715)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="13.160000000000002" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="13.160000000000002" width="17.296" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="30.456" width="41.924" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="72.38" width="65.04800000000002" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="137.42800000000003" width="50.384" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="51.418" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">22%</text><text class="box-label-s" y="31" x="104.904" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">35%</text><text class="box-label-s" y="31" x="162.62000000000003" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">27%</text><text class="box-label" y="31" x="51.418" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">22%</text><text class="box-label" y="31" x="104.904" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">35%</text><text class="box-label" y="31" x="162.62000000000003" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">27%</text></g></g><g class="row" transform="translate(7.0439276695251465, 783)"><g transform="scale(0.8613265156745911,0.8613265156745911)"><rect class="likert-box-0" y="0" height="50" x="0" width="9.588" style="fill: rgb(255, 0, 0);"></rect><rect class="likert-box-1" y="0" height="50" x="9.588" width="14.476000000000003" style="fill: rgb(254, 255, 0);"></rect><rect class="likert-box-2" y="0" height="50" x="24.064" width="38.35199999999999" style="fill: rgb(238, 238, 238);"></rect><rect class="likert-box-3" y="0" height="50" x="62.41599999999999" width="66.176" style="fill: rgb(146, 208, 79);"></rect><rect class="likert-box-4" y="0" height="50" x="128.59199999999998" width="59.40800000000001" style="fill: rgb(6, 176, 79);"></rect><text class="box-label-s" y="31" x="43.239999999999995" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">20%</text><text class="box-label-s" y="31" x="95.50399999999999" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">35%</text><text class="box-label-s" y="31" x="158.296" opacity="0.9" style="
+        stroke: white;
+        stroke-width: 4;
+        text-anchor: middle;
+      ">32%</text><text class="box-label" y="31" x="43.239999999999995" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">20%</text><text class="box-label" y="31" x="95.50399999999999" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">35%</text><text class="box-label" y="31" x="158.296" opacity="1" style="
+        stroke: black;
+        stroke-width: 1;
+        text-anchor: middle;
+      ">32%</text></g></g><line x1="44.28768303186908" x2="44.28768303186908" y1="0" y2="842" stroke="#555555"></line></g></g></svg><div style="
+        position: absolute;
+        left: 383px;
+        top:  127px;
+      "><div style="
+        position: absolute;
+      "><div class="d3-tooltip" style="
+        position: absolute;
+        text-align: center;
+        width: 90px;
+        padding: 4px;
+        font: 12px sans-serif;
+        background: #333;
+        color: white;
+        border: 0px;
+        pointer-events: none;
+        opacity: 0;
+      "></div></div></div></div></div></div></div></main><div class="sc-kAzzGY blkgHv" data-reactid="220"><footer class="sc-chPdSV kWmYYg" data-reactid="221"><div class="sc-kgoBCf iHJaZE" data-reactid="222"><a href="http://ua.edu" target="_blank" rel="noopener" class="sc-ckVGcZ gRiCZu" data-reactid="223"><!-- react-text: 224 -->© <!-- /react-text --><!-- react-text: 225 -->2018<!-- /react-text --><!-- react-text: 226 --> The University of Alabama<!-- /react-text --></a></div><div class="sc-kGXeez gvFkTJ" data-reactid="227"><a href="http://maps.apple.com/?q=33.2084338,-87.5472800" title="Map coordinates" class="sc-ckVGcZ gRiCZu" data-reactid="228">East Annex</a><!-- react-text: 229 -->|<!-- /react-text --><a href="obfuscated" class="sc-ckVGcZ gRiCZu" style="unicode-bidi:bidi-override;direction:rtl;" data-reactid="230">0027-843-502</a><!-- react-text: 231 -->|<!-- /react-text --><a class="sc-ckVGcZ gRiCZu" href="/chime-in/contact/" data-reactid="232">OIRA Contact</a></div></footer></div></div></div><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="webpack-manifest">/*<![CDATA[*/window.webpackManifest={"231608221292675":"app-141ec21da6b3e90c5f5f.js","105067133492481":"component---src-templates-md-post-js-7f7fc5c4b6cca217781c.js","162898551421021":"component---src-pages-404-js-4503918ea3a16cfcdb75.js","35783957827783":"component---src-pages-index-js-c468c8304cf67a6563c5.js","2753267298510":"component---src-pages-job-classifications-js-7c9775e5a27f50243b52.js","99217416530716":"component---src-pages-overall-response-distribution-js-da917f0b0583260fcb12.js","247257851810749":"component---src-pages-planning-group-js-502625e5c4eb2ea1bb1d.js","100113222197546":"component---src-pages-response-rates-js-904cdf358f43fbdcbf5c.js","228383990529887":"component---src-pages-steering-committee-js-d22c57ba90ea6613e10e.js","112436324640851":"component---src-pages-topics-js-da917f0b0583260fcb12.js","60335399758886":"path----557518bd178906f8d58a.js","236411907011036":"path---comments-analysis-b51ab5af2e0de9358fee.js","176626024532719":"path---resources-7c2ff03650613b1a40e1.js","84887730282209":"path---faq-b96ee9bf418dcdc09fb6.js","209423896091570":"path---executive-summary-79a7faca2ceca5a17650.js","77125925856633":"path---sug-institutions-4c176fee06c3182fa1aa.js","254022195166212":"path---404-a0e39f21c11f6a62c5ab.js","142629428675168":"path---index-a0e39f21c11f6a62c5ab.js","133942243180950":"path---job-classifications-a0e39f21c11f6a62c5ab.js","241428382430136":"path---overall-response-distribution-a0e39f21c11f6a62c5ab.js","5413233889660":"path---planning-group-a0e39f21c11f6a62c5ab.js","142529436942370":"path---response-rates-a0e39f21c11f6a62c5ab.js","270056641491683":"path---steering-committee-a0e39f21c11f6a62c5ab.js","101663988610066":"path---topics-a0e39f21c11f6a62c5ab.js","178698757827068":"path---404-html-a0e39f21c11f6a62c5ab.js","114276838955818":"component---src-layouts-index-js-017a3dfdd03a962eead5.js"}/*]]>*/</script><style>
+    .accessibility-error {
+      border: 3px solid #f00;
+    }
+  </style><script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102397615-2', 'auto');
+  </script><script>/*<![CDATA[*/["/chime-in/commons-ff34507cd3fda0b5029c.js","/chime-in/app-141ec21da6b3e90c5f5f.js","/chime-in/path---overall-response-distribution-a0e39f21c11f6a62c5ab.js","/chime-in/component---src-pages-overall-response-distribution-js-da917f0b0583260fcb12.js","/chime-in/component---src-layouts-index-js-017a3dfdd03a962eead5.js"].forEach(function(s){document.write('<script src="'+s+'" defer></'+'script>')})/*]]>*/</script><script src="/chime-in/commons-ff34507cd3fda0b5029c.js" defer=""></script><script src="/chime-in/app-141ec21da6b3e90c5f5f.js" defer=""></script><script src="/chime-in/path---overall-response-distribution-a0e39f21c11f6a62c5ab.js" defer=""></script><script src="/chime-in/component---src-pages-overall-response-distribution-js-da917f0b0583260fcb12.js" defer=""></script><script src="/chime-in/component---src-layouts-index-js-017a3dfdd03a962eead5.js" defer=""></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bowser/1.7.1/bowser.js"></script></body>
