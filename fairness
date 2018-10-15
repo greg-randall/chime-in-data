@@ -1,77 +1,77 @@
-<table class="demo">
+<table>
 	<caption>
 		<h2>Fairness</h2>
 	</caption>
-	<thead class="sc-cMljjf uJIKg">
+	<thead>
 		<tr>
-			<th style="text-align: left;">#</th>
-			<th style="text-align: left;">Question</th>
+			<th>#</th>
+			<th>Question</th>
 			<th>&nbsp;</th>
-			<th><!-- react-text: 4596 -->Mean<!-- /react-text --><br>
-			<!-- react-text: 4598 -->(1-5)<!-- /react-text --></th>
-			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+			<th>Mean<br>
+			</th>
+			<th>Distribution</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">54</td>
-			<td rowspan="2">This institution has clear and effective procedures for dealing with discrimination.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>54</td>
+			<td>This institution has clear and effective procedures for dealing with discrimination.</td>
+			<td>UA</td>
 			<td>3.9</td>
-			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 17%; Agree: 46%; Strongly Agree: 28%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 17%; Agree: 46%; Strongly Agree: 28%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.82</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 19%; Agree: 49%; Strongly Agree: 22%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 19%; Agree: 49%; Strongly Agree: 22%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">44</td>
-			<td rowspan="2">This institution's policies and practices ensure fair treatment for faculty, administration and staff.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>44</td>
+			<td>This institution's policies and practices ensure fair treatment for faculty, administration and staff.</td>
+			<td>UA</td>
 			<td>3.47</td>
-			<td aria-label="Strongly Disagree: 6%; Disagree: 9%; Undecided: 29%; Agree: 40%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 9%; Undecided: 29%; Agree: 40%; Strongly Agree: 14%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.53</td>
-			<td aria-label="Strongly Disagree: 5%; Disagree: 9%; Undecided: 28%; Agree: 44%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 5%; Disagree: 9%; Undecided: 28%; Agree: 44%; Strongly Agree: 14%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">14</td>
-			<td rowspan="2">I can speak up or challenge a traditional way of doing something without fear of harming my career.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>14</td>
+			<td>I can speak up or challenge a traditional way of doing something without fear of harming my career.</td>
+			<td>UA</td>
 			<td>3.43</td>
-			<td aria-label="Strongly Disagree: 9%; Disagree: 13%; Undecided: 24%; Agree: 33%; Strongly Agree: 21%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 9%; Disagree: 13%; Undecided: 24%; Agree: 33%; Strongly Agree: 21%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.62</td>
-			<td aria-label="Strongly Disagree: 7%; Disagree: 9%; Undecided: 22%; Agree: 37%; Strongly Agree: 25%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 7%; Disagree: 9%; Undecided: 22%; Agree: 37%; Strongly Agree: 25%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">18</td>
-			<td rowspan="2">Issues of low performance are addressed in my department.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>18</td>
+			<td>Issues of low performance are addressed in my department.</td>
+			<td>UA</td>
 			<td>3.26</td>
-			<td aria-label="Strongly Disagree: 10%; Disagree: 14%; Undecided: 27%; Agree: 35%; Strongly Agree: 13%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 10%; Disagree: 14%; Undecided: 27%; Agree: 35%; Strongly Agree: 13%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.3</td>
-			<td aria-label="Strongly Disagree: 9%; Disagree: 14%; Undecided: 30%; Agree: 35%; Strongly Agree: 13%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 9%; Disagree: 14%; Undecided: 30%; Agree: 35%; Strongly Agree: 13%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">16</td>
-			<td rowspan="2">Promotions in my department are based on a person's ability.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>16</td>
+			<td>Promotions in my department are based on a person's ability.</td>
+			<td>UA</td>
 			<td>3.22</td>
-			<td aria-label="Strongly Disagree: 14%; Disagree: 13%; Undecided: 27%; Agree: 31%; Strongly Agree: 16%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 14%; Disagree: 13%; Undecided: 27%; Agree: 31%; Strongly Agree: 16%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.39</td>
-			<td aria-label="Strongly Disagree: 11%; Disagree: 12%; Undecided: 26%; Agree: 33%; Strongly Agree: 19%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 11%; Disagree: 12%; Undecided: 26%; Agree: 33%; Strongly Agree: 19%">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>

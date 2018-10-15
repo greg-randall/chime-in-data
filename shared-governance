@@ -1,53 +1,53 @@
-<table class="demo">
+<table>
 	<caption>
 		<h2>Shared Governance</h2>
 	</caption>
-	<thead class="sc-cMljjf uJIKg">
+	<thead>
 		<tr>
-			<th style="text-align: left;">#</th>
-			<th style="text-align: left;">Question</th>
+			<th>#</th>
+			<th>Question</th>
 			<th>&nbsp;</th>
-			<th><!-- react-text: 4322 -->Mean<!-- /react-text --><br>
-			<!-- react-text: 4324 -->(1-5)<!-- /react-text --></th>
-			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+			<th>Mean<br>
+			</th>
+			<th>Distribution</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">39</td>
-			<td rowspan="2">Faculty are appropriately involved in decisions related to the education program (e.g., curriculum development, evaluation).</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>39</td>
+			<td>Faculty are appropriately involved in decisions related to the education program (e.g., curriculum development, evaluation).</td>
+			<td>UA</td>
 			<td>3.68</td>
-			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 25%; Agree: 46%; Strongly Agree: 18%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 25%; Agree: 46%; Strongly Agree: 18%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.74</td>
-			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 23%; Agree: 46%; Strongly Agree: 21%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 23%; Agree: 46%; Strongly Agree: 21%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">38</td>
-			<td rowspan="2">The role of faculty in shared governance is clearly stated and publicized.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>38</td>
+			<td>The role of faculty in shared governance is clearly stated and publicized.</td>
+			<td>UA</td>
 			<td>3.51</td>
-			<td aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 28%; Agree: 41%; Strongly Agree: 15%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 28%; Agree: 41%; Strongly Agree: 15%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.51</td>
-			<td aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 28%; Agree: 40%; Strongly Agree: 16%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 28%; Agree: 40%; Strongly Agree: 16%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">42</td>
-			<td rowspan="2">Faculty, administration and staff are meaningfully involved in institutional planning.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>42</td>
+			<td>Faculty, administration and staff are meaningfully involved in institutional planning.</td>
+			<td>UA</td>
 			<td>3.28</td>
-			<td aria-label="Strongly Disagree: 6%; Disagree: 15%; Undecided: 35%; Agree: 33%; Strongly Agree: 11%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 15%; Undecided: 35%; Agree: 33%; Strongly Agree: 11%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.31</td>
-			<td aria-label="Strongly Disagree: 6%; Disagree: 13%; Undecided: 36%; Agree: 34%; Strongly Agree: 11%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 13%; Undecided: 36%; Agree: 34%; Strongly Agree: 11%">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>

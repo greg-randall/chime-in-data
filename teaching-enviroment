@@ -1,53 +1,53 @@
-<table class="demo">
+<table>
 	<caption>
 		<h2>Teaching Environment</h2>
 	</caption>
-	<thead class="sc-cMljjf uJIKg">
+	<thead>
 		<tr>
-			<th style="text-align: left;">#</th>
-			<th style="text-align: left;">Question</th>
+			<th>#</th>
+			<th>Question</th>
 			<th>&nbsp;</th>
-			<th><!-- react-text: 2912 -->Mean<!-- /react-text --><br>
-			<!-- react-text: 2914 -->(1-5)<!-- /react-text --></th>
-			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+			<th>Mean<br>
+			</th>
+			<th>Distribution</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">33</td>
-			<td rowspan="2">There is a good balance of teaching, service and research at this institution.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>33</td>
+			<td>There is a good balance of teaching, service and research at this institution.</td>
+			<td>UA</td>
 			<td>3.77</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 8%; Undecided: 20%; Agree: 48%; Strongly Agree: 22%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 8%; Undecided: 20%; Agree: 48%; Strongly Agree: 22%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.86</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 18%; Agree: 49%; Strongly Agree: 25%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 18%; Agree: 49%; Strongly Agree: 25%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">51</td>
-			<td rowspan="2">There is appropriate recognition of innovative and high quality teaching.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>51</td>
+			<td>There is appropriate recognition of innovative and high quality teaching.</td>
+			<td>UA</td>
 			<td>3.67</td>
-			<td aria-label="Strongly Disagree: 4%; Disagree: 8%; Undecided: 23%; Agree: 49%; Strongly Agree: 17%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 8%; Undecided: 23%; Agree: 49%; Strongly Agree: 17%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.68</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 9%; Undecided: 23%; Agree: 47%; Strongly Agree: 18%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 9%; Undecided: 23%; Agree: 47%; Strongly Agree: 18%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">40</td>
-			<td rowspan="2">Teaching is appropriately recognized in the evaluation and promotion process.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>40</td>
+			<td>Teaching is appropriately recognized in the evaluation and promotion process.</td>
+			<td>UA</td>
 			<td>3.48</td>
-			<td aria-label="Strongly Disagree: 7%; Disagree: 11%; Undecided: 24%; Agree: 44%; Strongly Agree: 15%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 7%; Disagree: 11%; Undecided: 24%; Agree: 44%; Strongly Agree: 15%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.53</td>
-			<td aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 25%; Agree: 42%; Strongly Agree: 17%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 25%; Agree: 42%; Strongly Agree: 17%">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>

@@ -1,53 +1,53 @@
-<table class="demo">
+<table>
 	<caption>
 		<h2>Job Satisfaction/Support</h2>
 	</caption>
-	<thead class="sc-cMljjf uJIKg">
+	<thead>
 		<tr>
-			<th style="text-align: left;">#</th>
-			<th style="text-align: left;">Question</th>
+			<th>#</th>
+			<th>Question</th>
 			<th>&nbsp;</th>
-			<th><!-- react-text: 924 -->Mean<!-- /react-text --><br>
-			<!-- react-text: 926 -->(1-5)<!-- /react-text --></th>
-			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+			<th>Mean<br>
+			</th>
+			<th>Distribution</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">2</td>
-			<td rowspan="2">I am given the responsibility and freedom to do my job.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>2</td>
+			<td>I am given the responsibility and freedom to do my job.</td>
+			<td>UA</td>
 			<td>4.09</td>
-			<td aria-label="Strongly Disagree: 2%; Disagree: 4%; Undecided: 16%; Agree: 38%; Strongly Agree: 40%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 2%; Disagree: 4%; Undecided: 16%; Agree: 38%; Strongly Agree: 40%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>4.25</td>
-			<td aria-label="Strongly Disagree: 2%; Disagree: 3%; Undecided: 13%; Agree: 35%; Strongly Agree: 48%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 2%; Disagree: 3%; Undecided: 13%; Agree: 35%; Strongly Agree: 48%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">1</td>
-			<td rowspan="2">My job makes good use of my skills and abilities.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>1</td>
+			<td>My job makes good use of my skills and abilities.</td>
+			<td>UA</td>
 			<td>4.01</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 4%; Undecided: 18%; Agree: 40%; Strongly Agree: 35%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 4%; Undecided: 18%; Agree: 40%; Strongly Agree: 35%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>4.12</td>
-			<td aria-label="Strongly Disagree: 2%; Disagree: 4%; Undecided: 16%; Agree: 37%; Strongly Agree: 42%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 2%; Disagree: 4%; Undecided: 16%; Agree: 37%; Strongly Agree: 42%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">4</td>
-			<td rowspan="2">I am provided the resources I need to be effective in my job.</td>
-			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>4</td>
+			<td>I am provided the resources I need to be effective in my job.</td>
+			<td>UA</td>
 			<td>3.81</td>
-			<td aria-label="Strongly Disagree: 3%; Disagree: 7%; Undecided: 23%; Agree: 39%; Strongly Agree: 28%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 7%; Undecided: 23%; Agree: 39%; Strongly Agree: 28%">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>SUG</td>
 			<td>3.74</td>
-			<td aria-label="Strongly Disagree: 4%; Disagree: 7%; Undecided: 26%; Agree: 37%; Strongly Agree: 26%" class="span-cells">&nbsp;</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 7%; Undecided: 26%; Agree: 37%; Strongly Agree: 26%">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
