@@ -1,1 +1,41 @@
-<table class="demo"><caption><h2>Faculty, Administration &amp; Staff Relations</h2></caption><thead class="sc-cMljjf uJIKg"><tr><th style="text-align: left;">#</th><th style="text-align: left;">Question</th><th>&nbsp;</th><th><!-- react-text: 3774 -->Mean<!-- /react-text --><br><!-- react-text: 3776 -->(1-5)<!-- /react-text --></th><th style="width: 50%; padding-left: 110px;">Distribution</th></tr></thead><tbody><tr><td rowspan="2">46</td><td rowspan="2">Faculty, administration and staff work together to ensure the success of institution programs and initiatives.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.71</td><td class="span-cells" aria-label="Strongly Disagree: 3%; Disagree: 5%; Undecided: 27%; Agree: 48%; Strongly Agree: 17%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.75</td><td class="span-cells" aria-label="Strongly Disagree: 2%; Disagree: 5%; Undecided: 26%; Agree: 49%; Strongly Agree: 18%">&nbsp;</td></tr><tr><td rowspan="2">55</td><td rowspan="2">There is regular and open communication among faculty, administration and staff.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.39</td><td class="span-cells" aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 33%; Agree: 35%; Strongly Agree: 14%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.42</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 34%; Agree: 37%; Strongly Agree: 14%">&nbsp;</td></tr></tbody></table>
+<table class="demo">
+	<caption>
+		<h2>Faculty, Administration &amp; Staff Relations</h2>
+	</caption>
+	<thead class="sc-cMljjf uJIKg">
+		<tr>
+			<th style="text-align: left;">#</th>
+			<th style="text-align: left;">Question</th>
+			<th>&nbsp;</th>
+			<th><!-- react-text: 3774 -->Mean<!-- /react-text --><br>
+			<!-- react-text: 3776 -->(1-5)<!-- /react-text --></th>
+			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="2">46</td>
+			<td rowspan="2">Faculty, administration and staff work together to ensure the success of institution programs and initiatives.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.71</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 5%; Undecided: 27%; Agree: 48%; Strongly Agree: 17%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.75</td>
+			<td aria-label="Strongly Disagree: 2%; Disagree: 5%; Undecided: 26%; Agree: 49%; Strongly Agree: 18%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">55</td>
+			<td rowspan="2">There is regular and open communication among faculty, administration and staff.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.39</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 33%; Agree: 35%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.42</td>
+			<td aria-label="Strongly Disagree: 5%; Disagree: 11%; Undecided: 34%; Agree: 37%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>

@@ -1,1 +1,89 @@
-<table class="demo"><caption><h2>Policies, Resources &amp; Efficiency</h2></caption><thead class="sc-cMljjf uJIKg"><tr><th style="text-align: left;">#</th><th style="text-align: left;">Question</th><th>&nbsp;</th><th><!-- react-text: 2608 -->Mean<!-- /react-text --><br><!-- react-text: 2610 -->(1-5)<!-- /react-text --></th><th style="width: 50%; padding-left: 110px;">Distribution</th></tr></thead><tbody><tr><td rowspan="2">49</td><td rowspan="2">This institution actively contributes to the community.</td><td style="padding-left: 0.96667rem;">UA</td><td>4.12</td><td class="span-cells" aria-label="Strongly Disagree: 1%; Disagree: 3%; Undecided: 14%; Agree: 45%; Strongly Agree: 36%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>4.16</td><td class="span-cells" aria-label="Strongly Disagree: 1%; Disagree: 2%; Undecided: 13%; Agree: 47%; Strongly Agree: 37%">&nbsp;</td></tr><tr><td rowspan="2">50</td><td rowspan="2">This institution places sufficient emphasis on having diverse faculty, administration and staff.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.86</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 18%; Agree: 45%; Strongly Agree: 27%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.86</td><td class="span-cells" aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 19%; Agree: 45%; Strongly Agree: 27%">&nbsp;</td></tr><tr><td rowspan="2">30</td><td rowspan="2">Our orientation program prepares new faculty, administration and staff to be effective.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.7</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 8%; Undecided: 24%; Agree: 46%; Strongly Agree: 19%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.46</td><td class="span-cells" aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 29%; Agree: 40%; Strongly Agree: 14%">&nbsp;</td></tr><tr><td rowspan="2">57</td><td rowspan="2">This institution is well run.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.67</td><td class="span-cells" aria-label="Strongly Disagree: 4%; Disagree: 5%; Undecided: 30%; Agree: 43%; Strongly Agree: 18%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.56</td><td class="span-cells" aria-label="Strongly Disagree: 5%; Disagree: 8%; Undecided: 31%; Agree: 41%; Strongly Agree: 16%">&nbsp;</td></tr><tr><td rowspan="2">17</td><td rowspan="2">Our review process accurately measures my job performance.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.43</td><td class="span-cells" aria-label="Strongly Disagree: 8%; Disagree: 12%; Undecided: 25%; Agree: 39%; Strongly Agree: 17%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.46</td><td class="span-cells" aria-label="Strongly Disagree: 7%; Disagree: 11%; Undecided: 27%; Agree: 38%; Strongly Agree: 17%">&nbsp;</td></tr><tr><td rowspan="2">28</td><td rowspan="2">My department has adequate faculty/staff to achieve our goals.</td><td style="padding-left: 0.96667rem;">UA</td><td>3.17</td><td class="span-cells" aria-label="Strongly Disagree: 13%; Disagree: 17%; Undecided: 24%; Agree: 32%; Strongly Agree: 14%">&nbsp;</td></tr><tr><td style="padding-left: 0.96667rem;">SUG</td><td>3.09</td><td class="span-cells" aria-label="Strongly Disagree: 12%; Disagree: 20%; Undecided: 26%; Agree: 30%; Strongly Agree: 12%">&nbsp;</td></tr></tbody></table>
+<table class="demo">
+	<caption>
+		<h2>Policies, Resources &amp; Efficiency</h2>
+	</caption>
+	<thead class="sc-cMljjf uJIKg">
+		<tr>
+			<th style="text-align: left;">#</th>
+			<th style="text-align: left;">Question</th>
+			<th>&nbsp;</th>
+			<th><!-- react-text: 2608 -->Mean<!-- /react-text --><br>
+			<!-- react-text: 2610 -->(1-5)<!-- /react-text --></th>
+			<th style="width: 50%; padding-left: 110px;">Distribution</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="2">49</td>
+			<td rowspan="2">This institution actively contributes to the community.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>4.12</td>
+			<td aria-label="Strongly Disagree: 1%; Disagree: 3%; Undecided: 14%; Agree: 45%; Strongly Agree: 36%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>4.16</td>
+			<td aria-label="Strongly Disagree: 1%; Disagree: 2%; Undecided: 13%; Agree: 47%; Strongly Agree: 37%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">50</td>
+			<td rowspan="2">This institution places sufficient emphasis on having diverse faculty, administration and staff.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.86</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 6%; Undecided: 18%; Agree: 45%; Strongly Agree: 27%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.86</td>
+			<td aria-label="Strongly Disagree: 3%; Disagree: 6%; Undecided: 19%; Agree: 45%; Strongly Agree: 27%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">30</td>
+			<td rowspan="2">Our orientation program prepares new faculty, administration and staff to be effective.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.7</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 8%; Undecided: 24%; Agree: 46%; Strongly Agree: 19%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.46</td>
+			<td aria-label="Strongly Disagree: 6%; Disagree: 11%; Undecided: 29%; Agree: 40%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">57</td>
+			<td rowspan="2">This institution is well run.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.67</td>
+			<td aria-label="Strongly Disagree: 4%; Disagree: 5%; Undecided: 30%; Agree: 43%; Strongly Agree: 18%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.56</td>
+			<td aria-label="Strongly Disagree: 5%; Disagree: 8%; Undecided: 31%; Agree: 41%; Strongly Agree: 16%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">17</td>
+			<td rowspan="2">Our review process accurately measures my job performance.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.43</td>
+			<td aria-label="Strongly Disagree: 8%; Disagree: 12%; Undecided: 25%; Agree: 39%; Strongly Agree: 17%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.46</td>
+			<td aria-label="Strongly Disagree: 7%; Disagree: 11%; Undecided: 27%; Agree: 38%; Strongly Agree: 17%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">28</td>
+			<td rowspan="2">My department has adequate faculty/staff to achieve our goals.</td>
+			<td style="padding-left: 0.96667rem;">UA</td>
+			<td>3.17</td>
+			<td aria-label="Strongly Disagree: 13%; Disagree: 17%; Undecided: 24%; Agree: 32%; Strongly Agree: 14%" class="span-cells">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="padding-left: 0.96667rem;">SUG</td>
+			<td>3.09</td>
+			<td aria-label="Strongly Disagree: 12%; Disagree: 20%; Undecided: 26%; Agree: 30%; Strongly Agree: 12%" class="span-cells">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
